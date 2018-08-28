@@ -1,0 +1,13 @@
+.wrapper-table {
+    display: none;
+}
+
+.wrapper-rows:hover {
+    & > * {
+        display: block;
+    }
+}
+
+.heading-price-list {
+    cursor: pointer;
+}

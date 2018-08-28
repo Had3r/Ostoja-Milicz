@@ -1,0 +1,17 @@
+{
+  "name": "ostoja-milicz",
+  "version": "1.0.0",
+  "description": "Cottages above the Barycz Valley",
+  "main": "index.js",
+  "scripts": {
+    "watch:sass": "node-sass assets/sass/main.scss assets/css/main.css -w",
+    "compile:sass": "node-sass assets/sass/main.scss assets/css/main.comp.css",
+    "compress:css": "node-sass assets/css/main.comp.css assets/css/style.css --output-style compressed"
+  },
+  "author": "Adrian Zawadzki",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^4.9.3"
+  },
+  "devDependencies": {}
+}
