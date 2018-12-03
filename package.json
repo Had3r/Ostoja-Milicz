@@ -10,8 +10,8 @@
   },
   "author": "Adrian Zawadzki",
   "license": "ISC",
-  "dependencies": {
-    "node-sass": "^4.9.3"
-  },
-  "devDependencies": {}
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.10.0"
+  }
 }

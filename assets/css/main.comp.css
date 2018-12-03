@@ -2105,16 +2105,20 @@ body.is-menu-visible #menu {
           text-transform: uppercase; }
           #header nav > ul > li > a.menuToggle {
             outline: 0;
-            position: relative; }
+            position: relative;
+            font-size: 1.5em;
+            margin-right: -3em; }
             #header nav > ul > li > a.menuToggle:after {
               background-image: url("images/bars.svg");
-              background-position: right center;
+              background-position: left;
               background-repeat: no-repeat;
               content: '';
               display: inline-block;
-              height: 3.75em;
-              vertical-align: top;
-              width: 2em; }
+              height: 2em;
+              vertical-align: middle;
+              width: 3em;
+              margin-left: .5em;
+              margin-top: -.1em; }
             @media screen and (max-width: 736px) {
               #header nav > ul > li > a.menuToggle {
                 padding: 0 1.5em; }
