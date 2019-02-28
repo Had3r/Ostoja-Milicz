@@ -1,15 +1,10 @@
 # Ostoja-Milicz
-This is the website of a real holiday resort.
+This is the website of a real holiday resort. The page made using the HTML5 UP template.
 
-## General info
-
-The page made using the HTML5 UP template.
-
-## Technologies used
+### Technologies used
 * JavaScript
 * jQuery
 * CSS (SASS)
-
 
 ## To run click below:
 www.ostojamilicz.pl
