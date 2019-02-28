@@ -13,9 +13,3 @@ The page made using the HTML5 UP template.
 
 ## To run click below:
 www.ostojamilicz.pl
-
-## Status
-Project is:  _finished_.
-
-## Contact
-Created by adrian.zawadzki@outlook.com
